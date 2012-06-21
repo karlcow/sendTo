@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+    id="http://www.la-grange.net/2012/sendTo"
+    version="0.01">
+    <name>sendTo</name>
+    <author href="http://www.la-grange.net/karl/">Karl Dubost</author>
+    <description xml:lang="en">convert a selected text to Markdown and format an email with it to be ready to send.</description>
+    <icon src="images/icon_64x64.png"/>
+    <icon src="images/icon_18x18.png"/>
+    <license href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</license>
+</widget>
